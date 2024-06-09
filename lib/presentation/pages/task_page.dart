@@ -9,7 +9,7 @@ class TaskPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Task Tracker Pro')),
+      appBar: AppBar(title: Text('Task Tracker')),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
